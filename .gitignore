@@ -1,0 +1,6 @@
+# Ignore las siguientes carpetas
+data/
+
+#Ignore archivos de sistema
+.DS_Store
+.venv
